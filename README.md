@@ -28,7 +28,7 @@ Parler du format, des attributs et du type de données
 
 <h2>But</h2>
 : qu'est-ce que vous voulez découvrir? Des tendances? Vous voulez explorer ou expliquer?
-<p>On veut voir l'influence des jeux dans la popularité twitch, et permettre à explorer les données.</p>
+<p>Nous voullons voir l'influence des jeux sur la popularité sur Twitch, et permettre à explorer les données.</p>
 
 
 
