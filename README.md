@@ -12,12 +12,12 @@ d'où viennent les données,
 qui les a créées 
 et dans quel contexte
 <p>
-  Nous avons décidé de parler des streamers Twitch, car étant nous mêmes consommatrices de ce que cette plateforme propose, 
+  Nous avons décidé de parler des jeux les plus populaires de Twitch, car étant nous mêmes consommatrices de ce que cette plateforme propose, 
   nous pensions que ce serait intéressant d'explorer quelques données que nous pouvons trouver dans cette plateforme.
 </p>
 <p>
-  Les données que nous avons décidés de sélectionner dans le cadre de ce projet se trouvent dans Kaggle, vous pouvez les 
-  trouver dans <a href="https://www.kaggle.com/aayushmishra1512/twitchdata">ce lien</a>. 
+  Les données que nous avons décidé de sélectionner dans le cadre de ce projet se trouvent dans Kaggle. Nous avons sélectionné
+  <a href="">ce jeu de données</a> comme étant notre base principale, et <a href="">ce deuxième jeu de données</a> comme complément pour enrichir le tout. 
 </p>
 <p></p>
 
@@ -28,7 +28,7 @@ Parler du format, des attributs et du type de données
 
 <h2>But</h2>
 : qu'est-ce que vous voulez découvrir? Des tendances? Vous voulez explorer ou expliquer?
-<p></p>
+<p>On veut voir l'influence des jeux dans la popularité twitch, et permettre à explorer les données.</p>
 
 
 
