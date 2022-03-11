@@ -12,7 +12,7 @@
   Nous avons voulu prendre des données de Spotify, car en étant des grandes consommatrices de cette application, nous avons estimé qu'il serait intéressant d'explorer les données à travers le temps. Nous avons donc choisi un jeu de données qui sélectionne les tops 200 de chaque jour entre 2017 et 2021.
 </p>
 <p>
-  Les données que nous avons sélectionnées se trouvent dans Kaggle, trouvable sur <a href="https://www.kaggle.com/c0lydxmas/spotify-top-200-daily-global-2017-2021?select=data-2017-01-02.json">ce lien</a>.
+  Les données que nous avons sélectionnées se trouvent dans Kaggle, trouvable sur <a href="https://www.kaggle.com/c0lydxmas/spotify-top-200-daily-global-2017-2021?select=data-2017-01-02.json">ce lien</a>. Ce jeu de données a été crée par <a href="https://www.kaggle.com/c0lydxmas/datasets">Khanh Bui</a> le 12 janvier 2022.
 </p>
 
 <h2>Description</h2> 
