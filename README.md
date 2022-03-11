@@ -1,4 +1,4 @@
-# Projet VisualDon - Qu'est-ce qu'on écoutait quand...
+# Qu'est-ce qu'on écoutait quand... - Projet VisualDon
 <p>
   Pour le cours: Visualisation de données
 </p>
