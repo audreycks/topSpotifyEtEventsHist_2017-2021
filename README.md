@@ -24,11 +24,11 @@
 <p>
   On veut explorer les musiques qui étaient les plus populaires sur Spotify au fil de ces cinq dernières années. Et pour aider à mieux se situer dans le temps, il serait intéressant d'apporter un ancrage historique. 
   
-  C'est-à-dire, pendant l'exploration des musiques les plus populaires de Spotify, on ferait un parallèle avec les événements historiques qui avaient lieu au même moment. Ces événements historiques on compte les trouver <a href=https://www.history.com/>history.com</a>.
+  C'est-à-dire, pendant l'exploration des musiques les plus populaires de Spotify, on ferait un parallèle avec les événements historiques qui avaient lieu au même moment. Ces événements historiques on compte les trouver dans <a href=https://www.history.com/>history.com</a>.
 </p>
 
 <h2>Références</h2>
 <p>
-  Nous n'avons malheureusement pas trouvé de personnes qui auraient utilisé ces données, peut-être c'est dû au fait que les données ont été rassemblées récemment (il y a seulement deux mois). En ce jour, on peut compter 14 téléchargements (dont le nôtre).
+  Nous n'avons malheureusement pas trouvé de personnes qui auraient utilisé ces données, peut-être cela est dû au fait que les données ont été rassemblées récemment (il y a seulement deux mois). En ce jour, on peut compter 14 téléchargements (dont le nôtre).
 </p>
 
