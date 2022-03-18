@@ -32,3 +32,5 @@
   Nous n'avons malheureusement pas trouvé de personnes qui auraient utilisé ces données, peut-être cela est dû au fait que les données ont été rassemblées récemment (il y a seulement deux mois). En ce jour, on peut compter 14 téléchargements (dont le nôtre).
 </p>
 
+<h2>Croquis<h2>
+  [WireFrame.pdf](https://github.com/TanyaKemmPere/topSpotifyEtEventsHist_2017-2021/files/8302671/WireFrame.pdf)
