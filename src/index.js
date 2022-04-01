@@ -1,16 +1,19 @@
 import * as d3 from 'd3';
 import { json } from 'd3-fetch'
 
+import { sql } from './lib/sql'
 
 // set the dimensions and margins of the graph
 const height = 100 //window.innerHeight*0.8;
 const width = 200 //window.innerWidth*0.6;
 const margin = { top: 50, bottom: 50, left: 50, right: 50 }
 
+let t = d3.transition()
+    .duration(2000)
 
 // append les titres des chansons
 let titre = d3.select(".titres")
-    .append("h2")
+    .append("g")
 
 let artiste = d3.select(".titres")
     .append("p")
@@ -48,7 +51,26 @@ Promise.all([
     .then(([data_2017, data_2018, data_2019, data_2020, data_2021, data_events]) =>
     {
 
-
+        titre.selectAll('text')
+            .data(data_2017, d => d)
+            .join(
+            enter => enter
+                .append('text')
+                .attr('fill', 'green')
+                .attr('x', (d, i) => i*50)
+                .attr('y', -30)
+                .text(d => `${d.name}\r`)
+                .transition(t)
+                .attr('y', 0),
+            update => update
+                .attr('y', 0)
+                .transition(t)
+                .attr('x', (d, i) => i * 15),
+            exit => exit
+                .attr('fill', 'red')
+                .transition(t)
+                .attr("x", (d, i) => i * 15)
+            )
         
 
         /*
