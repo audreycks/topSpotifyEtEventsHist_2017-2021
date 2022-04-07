@@ -1,6 +1,7 @@
 import * as d3 from 'd3';
 import { json } from 'd3-fetch'
 
+
 import { sql } from './lib/sql'
 
 // set the dimensions and margins of the graph
@@ -113,8 +114,8 @@ Promise.all([
 
 
         
-        /*data_2017.name.forEach(e => {
-            console.log(e.name)
+        /*data_2017.forEach(e => {
+            console.log(`${e.name} a comme tempo: ${e.tempo}`)
         }); /** */
 
         /*
